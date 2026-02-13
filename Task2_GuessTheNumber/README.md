@@ -27,3 +27,10 @@ The player must guess the number within a limited number of attempts.
 ```bash
 javac GuessTheNumber.java
 java GuessTheNumber
+Output
+
+The program displays whether the guess is too high or too low and calculates score.
+
+Author
+
+Kamepalli Venkata Rama Krishna
